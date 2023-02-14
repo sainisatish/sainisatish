@@ -21,6 +21,7 @@ Hobbies: ["Badminton"]
 
 
 ```
+![Snake animation](https://github.com/sainisatish/sainisatish/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
