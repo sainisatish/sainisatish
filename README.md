@@ -14,7 +14,8 @@
 </p>
 
 ```yaml
-Company: TCS (System Engineer) - (Oct 2021- Jan 2023)
+Current Company: SecqurAIse Technologies Private Limited - (Present)
+Past Company: TCS (System Engineer) - (Oct 2021- Jan 2023)
 Currently_learning: ["Deep Learning, Computer Vision and EDGE AI"]
 2023 Goals: ["Create 10+ Projects"]
 Hobbies: ["Badminton"]
