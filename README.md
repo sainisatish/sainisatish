@@ -15,10 +15,10 @@
 </p>
 
 ```yaml
-Current Company: Orderstack.xyz - (Present)
+Current Company: AlterSquare.io - (Present)
 Past Company: SecqurAIse Technologies Private Limited-(2023), TCS (System Engineer) - (Oct 2021- Jan 2023)
 Currently_learning: ["Deep Learning, Computer Vision and EDGE AI"]
-2024 Goals: ["Create 10+ Projects"]
+2025 Goals: ["Create 10+ Projects"]
 Hobbies: ["Badminton"]
 
 
